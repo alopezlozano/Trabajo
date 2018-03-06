@@ -1,4 +1,4 @@
-# Curso de GIT 2018, marzo
+# Curso de GIT 2018, marzo, 06
 
 Este proyecto contiene el curso de introducción a GIT del Aula de Software Libre.
 
